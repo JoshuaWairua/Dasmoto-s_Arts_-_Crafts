@@ -1,0 +1,44 @@
+body{
+    padding: 5px;
+}
+
+.landingpagez{
+    margin-top: 70px;
+    height: 120px;
+    width: 100%;
+    background-image: url(../images/pattern.jpeg);
+    text-align: center;
+}
+
+h1{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+
+.brushesh2{
+    background-color: mediumspringgreen;
+}
+
+h2{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+a{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.framesh2{
+    background-color: lightcoral;
+}
+
+.painth2{
+    background-color: skyblue;
+}
+
